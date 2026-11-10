@@ -1,0 +1,7 @@
+batch_id,product_name,product_category,manufacturer,production_date,expiry_date,production_quantity,batch_quality_status,recall_status,risk_level
+B001,Organic Milk,Dairy,Sunrise Farms,2026-11-01,2026-11-15,2500,Approved,Pending recall,High
+B002,Apple Juice,Beverages,Northberry Co,2026-11-02,2026-12-02,1800,Approved,Clear,Low
+B003,Packaged Yogurt,Dairy,Bluegrass Foods,2026-11-03,2026-11-13,2200,Under review,Under investigation,High
+B004,Tomato Sauce,Condiments,Harbor Kitchen,2026-11-04,2027-02-04,3000,Approved,Clear,Low
+B005,Fresh Cream,Dairy,Coastal Dairy,2026-11-05,2026-11-12,1500,Approved,Pending recall,Critical
+B006,Orange Nectar,Beverages,Sunrise Farms,2026-11-06,2026-12-06,1700,Under review,Under investigation,Medium

@@ -1,0 +1,13 @@
+batch_id,product,production_date,expiry_date,shipped_quantity,destination,inventory_quantity,recall_status,shipment_status
+B001,Organic Milk,2026-11-01,2026-11-15,500,Chennai,120,Pending,Dispatched
+B001,Organic Milk,2026-11-01,2026-11-15,500,Bangalore,80,Pending,In transit
+B001,Organic Milk,2026-11-01,2026-11-15,500,Hyderabad,50,Pending,Received
+B003,Packaged Yogurt,2026-11-03,2026-11-13,400,Coimbatore,100,Pending,Received
+B003,Packaged Yogurt,2026-11-03,2026-11-13,400,Bangalore,70,Pending,In transit
+B005,Fresh Cream,2026-11-05,2026-11-12,350,Mumbai,110,Pending,Received
+B005,Fresh Cream,2026-11-05,2026-11-12,350,Delhi,90,Pending,Dispatched
+B006,Orange Nectar,2026-11-06,2026-12-06,320,Chennai,45,Review,Received
+B002,Apple Juice,2026-11-02,2026-12-02,300,Chennai,90,Clear,Received
+B002,Apple Juice,2026-11-02,2026-12-02,300,Mumbai,60,Clear,Dispatched
+B004,Tomato Sauce,2026-11-04,2027-02-04,250,Hyderabad,30,Clear,Received
+B004,Tomato Sauce,2026-11-04,2027-02-04,250,Chennai,40,Clear,Dispatched

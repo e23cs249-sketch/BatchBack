@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+
+# Testing
+.pytest_cache/
+
+# Logs
+*.log
+
+# Local demo workflow state
+data/batchback-demo-workflow.sqlite3
+data/batchback-demo-workflow.sqlite3-shm
+data/batchback-demo-workflow.sqlite3-wal
